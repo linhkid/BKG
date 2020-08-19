@@ -1,4 +1,4 @@
-# BKG
+# Knowledge Graph from Wiki Page
 Each approach belongs to each folder
 Train a custom NER with BERT belongs under custom NER file
 Advised to use BKG_exp1 as it was the only successful experiment
